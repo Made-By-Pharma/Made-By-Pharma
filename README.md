@@ -4,7 +4,6 @@
 💞️ We’re looking to collaborate on web development and digital marketing projects
 📫 How to reach us:
 Check out our business at https://www.madebypharma.com
-<a href="https://www.madebypharma.com" target="_blank" rel="follow" title="MadeByPharma Homepage">Visit MadeByPharma</a>
 
 <!---
 Made-By-Pharma/Made-By-Pharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
